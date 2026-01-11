@@ -52,7 +52,7 @@ project/
 
 ## Dashboard Access
 
-Tableau Public: [link][https://public.tableau.com/app/profile/rachel.tumulak/viz/HospitalOperations_17680889853870/AdmissionOverview]
+Tableau Public: [link here](https://public.tableau.com/app/profile/rachel.tumulak/viz/HospitalOperations_17680889853870/AdmissionOverview)
 
 ## Disclaimer
 
